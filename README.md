@@ -205,7 +205,7 @@ Primary contacts:
 
 - Sadman Hossain — sadmanhossainwork@gmail.com — https://www.linkedin.com/in/sadmanhossain-in/ — https://www.fiverr.com/s/yv157kV
 - Arnab Banik — official.arnab.b@gmail.com
-- Abdullah Al Mukit — dymmukit5824@gmail.com — https://www.linkedin.com/in/abdullah-al-mukit-01b865353/
+- Abdullah Al Mukit — mukit.abdullah.official@gmail.com — https://www.linkedin.com/in/abdullah-al-mukit-01b865353/
 
 For issues: please open a GitHub Issue in this repository.
 
